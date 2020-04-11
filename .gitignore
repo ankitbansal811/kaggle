@@ -2,4 +2,4 @@ data/
 venv/
 .ipynb_checkpoints/
 submissions/
-whats-cooking.zip
+*.zip
